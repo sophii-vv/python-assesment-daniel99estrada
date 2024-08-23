@@ -1,0 +1,29 @@
+Username=("soupyy")
+password=("kittycat")
+
+print("HALL0 W3LC0M3 T0 T3H 1NT3RNET!!!!! :333")
+print("")
+print("PL3AS3 EN3TR3 Y0UR US3RNAME AND PASSW0RD T0 PR0C33D!!! >w<")
+print("")
+print("")
+
+Username=input("E3NTER Y0UR U3RNAME H3R3 =w=:" )
+Password=input("E3NTER Y0UR PASSW0RD H3R3 0w0:" )
+
+if Username==Username and Password==password:
+  print("C0RRECT!!! W3LC0M3 T0 T3H 1NT3RNET S0UPYYY!!!")
+else:
+  print("INCORRECT!!! TRY AGAIN !!! QwQ")
+print("")
+print("")
+Username=input("E3NTER Y0UR U3RNAME H3R3 =w=:" )
+Password=input("E3NTER Y0UR PASSW0RD H3R3 0w0:" )
+
+while Username != Username or Password != password:
+  print("INCORRECT!!! TRY AGAIN !!! QwQ")
+  print("")
+  print("")
+  Username = input("E3NTER Y0UR U3RNAME H3R3 =w=:" )
+  Password = input("E3NTER Y0UR PASSW0RD H3R3 0w0:" )
+if Username == Username and Password == password:
+  print("C0RRECT!!! W3LC0M3 T0 T3H 1NT3RNET S0UPYYY!!!")
